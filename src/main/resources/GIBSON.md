@@ -1,6 +1,7 @@
 # GIBSON同源重组
 ***
-## GIBSON混合液
+## 液体配置
+### GIBSON混合液
 |        试剂        |       量       |
 |:----------------:|:-------------:|
 |   5xISO Buffer   |     320μl     |
@@ -8,6 +9,19 @@
 |     Phusion      |     20μl      |
 |    Taq ligase    |     160μl     |
 |       H2O        |  up to 1.2ml  |
+### 5×ISO Buffer
+|         试剂          |   量   |
+|:-------------------:|:-----:|
+| 1M Tris-HCl(pH 7.5) |  3ml  |
+| 2M MgCl<sub>2</sub> | 150μl |
+|     100mM dGTP      | 60μl  |
+|     100mM dATP      | 60μl  |
+|     100mM dTTP      | 60μl  |
+|     100mM dCTP      | 60μl  |
+|       1M DTT        | 300μl |
+|      PEG-8000       | 1.5g  |
+|      100mM NAD      | 300μl |
+|        至6ml         | ddH2O |
 ***
 ## 反应体系
 |    试剂     |   量   |
